@@ -41,7 +41,8 @@ This project helped me practice both HTML structure and foundational CSS propert
 
 ### Screenshot
 
-![Screenshot of my final result](image.png)
+![Screenshot solution in Desktop](images/solution-img.png)
+![Screenshot of solution in Mobile](images/solution-img-mobile.png)
 
 ## My process
 
